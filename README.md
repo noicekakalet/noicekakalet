@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a small dev from poland 🇵🇱. I love nodejs 😘<br>Currently my main project is a xxx
+I am a small dev love nodejs<br>
 
 
 ## 🌐 Socials:
